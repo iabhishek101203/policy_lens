@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+motor
+python-dotenv
+firebase-admin
+beautifulsoup4
+selenium
+chromadb
+openai
+langchain
+pydantic
+apscheduler
+python-multipart
+email-validator
